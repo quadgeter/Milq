@@ -142,7 +142,7 @@ nav ul li{
 }
 
 .img-bg{
-    height: 70vh;
+    height: 85vh;
     background-image: url("/styles/imgs/bg_img.jpeg");
     background-position: center;
     background-size: cover;
@@ -150,6 +150,11 @@ nav ul li{
     flex-direction: column;
     align-items: left;
     justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    color: black;
 }
 
 
@@ -162,6 +167,7 @@ nav ul li{
     justify-items: center;
     align-items:normal;
     justify-content:space-around;
+    padding: 4rem;
     .left-text{
         flex: 1;
         margin: 1rem;
