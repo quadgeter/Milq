@@ -144,7 +144,7 @@ nav ul li {
 
 .img-bg {
   height: 85vh;
-  background-image: url("/styles/imgs/bg_img.jpeg");
+  background-image: url("styles/imgs/map_img.jpeg");
   background-position: center;
   background-size: cover;
   display: flex;
@@ -168,7 +168,6 @@ a {
   justify-items: center;
   align-items: normal;
   justify-content: space-around;
-  padding: 4rem;
 }
 .map-section .left-text {
   flex: 1;
